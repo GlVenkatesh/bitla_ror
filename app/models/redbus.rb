@@ -1,0 +1,2 @@
+class Redbus < ApplicationRecord
+end

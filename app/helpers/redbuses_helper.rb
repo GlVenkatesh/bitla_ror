@@ -1,0 +1,2 @@
+module RedbusesHelper
+end
